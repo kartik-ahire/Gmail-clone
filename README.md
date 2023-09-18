@@ -1,5 +1,6 @@
 # Gmail-clone
-
+Gmail-clone is a web application built using the MERN stack, that offers the same functionalities as the free email provider "Gmail".
+React is used for the frontend, MongoDB for the database, and Node.js/Express for the backend.
 # Demo Images
 
 ![1](https://github.com/kartik-ahire/Gmail-clone/assets/119925465/abb4b65b-1be0-4948-b875-4e1f28f77573)
